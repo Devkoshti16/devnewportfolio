@@ -4,28 +4,34 @@ import { motion } from "framer-motion";
 
 const PROJECTS = [
     {
-        title: "Ethereal UX",
-        category: "Web App",
+        title: "smoothick",
+        category: "E-commerce",
         image: "https://portfolio-3c77ya14h-devkoshti16s-projects.vercel.app/assets/project1-DcrKoWyU.jpg",
-        link: "https://topworkvibes.com/",
+        link: "https://smoothick.com/",
     },
     {
-        title: "Neon Interface",
-        category: "Design System",
+        title: "blazinsports",
+        category: "E-commerce",
         image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1470&auto=format&fit=crop",
-        link: "#",
+        link: "https://blazinsports.com/",
     },
     {
-        title: "Quantum State",
-        category: "Mobile App",
+        title: "docsshipping",
+        category: "E-commerce",
+        image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1470&auto=format&fit=crop",
+        link: "https://docsshipping.com/",
+    },
+    {
+        title: "smoothick",
+        category: "E-commerce",
         image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1470&auto=format&fit=crop",
-        link: "#",
+        link: "https://smoothick.com/",
     },
     {
-        title: "Horizon Concept",
+        title: "Top workvibes",
         category: "E-commerce",
         image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1472&auto=format&fit=crop",
-        link: "#",
+        link: "https://topworkvibes.com/",
     }
 ];
 
